@@ -14,3 +14,5 @@ void GreetBlack()
 }
 
 SayHello();
+GreetWhite();
+GreetBlack();
